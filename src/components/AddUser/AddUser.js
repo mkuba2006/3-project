@@ -3,11 +3,6 @@ import React, { useState, useRef } from 'react';
 import Card from '../Card/Card'
 import Button from '../Button/Button'
 import Wrapper from '../helpers/helper';
-const basic_val = {
-  'name': '',
-  'year': '',
-}
-
 
 function AddUser(props) {
 
